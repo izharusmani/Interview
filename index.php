@@ -7,6 +7,9 @@
 				<h1>Innovative Idea</h1>
 				<p>Innovative idea we are implementing</p>
 				<img src="/wp-content/themes/ams/images/banner1.jpg" alt="Banner 1">
+				<div class="overlay">
+					<div class=="overlay_dark"></div>
+				</div>
 			</div>
 		</div>
 	</div>
