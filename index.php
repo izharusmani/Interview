@@ -24,4 +24,14 @@
 	</div>
 </section>
 
+<section class="parallax_sec">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				Content will goes here
+			</div>
+		</div>
+	</div>
+</section>
+
 <?php get_footer() ?>
