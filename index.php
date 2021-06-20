@@ -9,7 +9,6 @@
 				<img src="/wp-content/themes/ams/images/banner1.jpg" alt="Banner 1">
 				<div class="overlay">
 					<div class=="overlay_dark"></div>
-					<div class="other_layout"></div>
 				</div>
 			</div>
 		</div>
