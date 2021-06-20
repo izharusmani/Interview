@@ -9,6 +9,7 @@
 				<img src="/wp-content/themes/ams/images/banner1.jpg" alt="Banner 1">
 				<div class="overlay">
 					<div class=="overlay_dark"></div>
+					<div class="other_layout"></div>
 				</div>
 			</div>
 		</div>
@@ -34,6 +35,7 @@
 	</div>
 </section>
 
+<<<<<<< HEAD
 <section class="courses_sec">
 	<div class="container">
 		<div class="row">
@@ -45,3 +47,6 @@
 </section>
 
 <?php get_footer() ?>
+=======
+<?php get_footer() ?>
+>>>>>>> 5bb5128328df734649ae188c9d402f5f1de2f7e0
