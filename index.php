@@ -35,7 +35,7 @@
 	</div>
 </section>
 
-<section class="courses_sec">
+<section class="coursessec">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
